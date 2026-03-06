@@ -1,0 +1,6 @@
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/cubic2d.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/cubic3d.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/tetr3d.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/myanim.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/tasks/lesson2/build/CMakeFiles/rebuild_cache.dir
