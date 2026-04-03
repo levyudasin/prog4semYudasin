@@ -1,0 +1,3 @@
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/mipt4sem tasks Yudasin/miniproject/CMakeFiles/solve.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/mipt4sem tasks Yudasin/miniproject/CMakeFiles/edit_cache.dir
+/mnt/c/Users/HP/Desktop/КОД/mipt_4sem/mipt4sem tasks Yudasin/miniproject/CMakeFiles/rebuild_cache.dir
